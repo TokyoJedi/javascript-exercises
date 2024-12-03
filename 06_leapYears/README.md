@@ -14,3 +14,9 @@ leapYears(1985) // is not a leap year: returns false
 
 ## Hints
 - use an `if` statement and `&&` to make sure all the conditions are met properly
+
+Store input to local const variable.
+
+Write if statements checking for each test to ensure leap year.
+
+return true/false
